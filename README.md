@@ -27,7 +27,7 @@ q2 {} {q1} {q2}
 *q3 {} {q3} {q4}
 q4 {} {q4} {q3}
 
-#Símbolos notáveis: 
+Símbolos notáveis: 
 ' = Indica que é um estado inicial.
 * = Indica que é um estado final.
 & = Transição vazia.
