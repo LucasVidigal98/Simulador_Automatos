@@ -1,6 +1,6 @@
 # Simulador_Automatos
 
-#Trabalho Prático Teoria de Linguagens
+Trabalho Prático Teoria de Linguagens
 Aluno: Lucas de Freitas Vidigal
 
 O simulador foi implementado em JAVA e, tem o objetivo receber um arquivo representando um autômato (AFD ou AFN) e fazer pesquisas a partir de strings e símbolos para verficar se os mesmos são aceitos ou rejeitados pelo autômato. Para a avaliação do professor enviarei um arquivo do tipo .jar para a execução do programa e a pasta do projeto que acompanha os códigos de implementação e testes (Foi utilizado a biblioteca Junit para os testes), mais dois arquivos para serem processados, um do tipo AFD e outro do tipo AFN. Os pacotes com os códigos estão na pasta “src” do projeto e os pacotes com os códigos de testes estão na pasta  “test”. O projeto foi desenvolvido pelo NetBeans IDE 8.0.1, dessa forma, se o professor tiver a necessidade de utilizar alguma IDE para a visualização do código aconselho utilizar o NetBeans.
@@ -35,7 +35,8 @@ Obs.: Se um estado for inicial e final ao mesmo tempo o símbolo ‘ deve aparec
 
 	
 
-#Ex arquivo completo:
+Ex arquivo completo:
+
 	AFN
 5
 10
