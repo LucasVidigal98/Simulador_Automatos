@@ -51,4 +51,4 @@ q4 {} {q4} {q3}
 Autômato representado pelo arquivo:
 ![Automato][Automato]
 
-[Automato]: ./hqdefault.jpg
+[Automato]: ./automato.png
